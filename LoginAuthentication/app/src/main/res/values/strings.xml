@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    //Application name that appears at the top.
+    <string name="blank"></string>
+    <string name="password_list">PASSWORD LIST</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_attempts_remaining">Login attempts remaining:</string>
+    <string name="username">Username</string>
+    <string name="password_req">Must be at least 8 letters long.</string>
+    <string name="current_user">User: </string>
+    <string name="login_guide"></string>
+
+    <string name="account_button">Account</string>
+    <string name="list_activity_hint">Enter title (e.g. work), a password and
+        tap the add button.</string>
+    <string name="add_title_hint">Title</string>
+    <string name="add_password_hint">Password</string>
+    <string name="add_button">Add</string>
+</resources>
