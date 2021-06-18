@@ -1,2 +1,2 @@
 # passdroid
- Android password manager - developed for my HND (year 2 ) year exam project.
+ Android password manager - developed for my HND (Year 2) year college exam project.
